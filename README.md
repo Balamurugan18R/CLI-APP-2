@@ -7,4 +7,10 @@ It is developed in JavaScript at repl.it in Node.js .
 ## Technologies used:
 
 1. Node.js
-2. CHALK
+
+[Link to the site.](https://replit.com/@BALAMURUGANR4/LN1QuizAssignment?embed=1&embed=1)
+
+### Screenshot
+
+
+![quiz-2](https://user-images.githubusercontent.com/119726264/211214790-d198c99e-b242-4eab-bb46-68a9b35cbbae.png)
